@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikascod
+- 👋 Hi, I’m vikas
 - 👀 I’m interested in python prohramming languege
 - 🌱 I’m currently learning Django web framework
 - 💞️ I’m looking to collaborate on ...
