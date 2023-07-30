@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A passionate Python Developer</h3>
+<h1>Hi 👋, I'm Vikas</h1>
+<h3>A passionate Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikascod&label=Profile%20views&color=0e75b6&style=flat" alt="vikascod" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **Python, Django, FastAPI, Machine Learning**
-
 - 📫 How to reach me **vikas1618072@gmail.com**
-
-- ⚡ Fun fact **I am a Superman fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikascod&show_icons=true&locale=en" alt="vikascod" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikascod&" alt="vikascod" /></p>
+
