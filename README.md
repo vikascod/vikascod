@@ -1,16 +1,14 @@
 <h1>Hi 👋, I'm Vikas</h1>
 <h3>A passionate Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikascod&label=Profile%20views&color=0e75b6&style=flat" alt="vikascod" /> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me at **vikas1618072@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-964887242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-964887242/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vikascod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikascod/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-964887242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-964887242/" height="30" width="40" /></a>
+<a href="https://leetcode.com/vikascod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikascod/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
