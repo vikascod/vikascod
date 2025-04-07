@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me at **vikas1618072@gmail.com**
+- 📫 Feel free to contact me at vikas1618072@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
